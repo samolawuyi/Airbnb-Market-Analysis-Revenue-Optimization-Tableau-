@@ -1,0 +1,2 @@
+# Airbnb-Market-Analysis-Revenue-Optimization-Tableau-
+This project analyzes Airbnb listing data to identify pricing trends, seasonal demand, and geographic revenue hotspots. By visualizing the relationship between bedroom counts, pricing, and location, this dashboard serves as a decision-support tool for potential real estate investors or short-term rental hosts to optimize their listing strategy.
